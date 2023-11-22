@@ -1,0 +1,10 @@
+html {
+  max-width: 650px;
+  margin: auto;
+}
+
+@media (max-width: 650px) {
+  html {
+    margin: auto 1rem;
+  }
+} 
