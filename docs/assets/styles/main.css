@@ -107,7 +107,7 @@ text-decoration: underline;
 section h2 {
   color:gold;
 }
-
+/* FIXME: Arreglar el nav en dispositivos moviles. */
 @media screen and (max-width: 768px) {
   header {
     flex-wrap: wrap;
